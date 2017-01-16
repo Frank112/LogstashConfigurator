@@ -1,0 +1,13 @@
+{
+  "redis_store_uri": "",
+  "redis_store_secret": "HkIWs",
+  "config_file_path": "",
+  "use_user": false,
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin"
+    }
+  ]
+}
